@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chidiebere ejimonu</h1>
-<h3 align="center">An Engineer with a background in Internetworking presently resident in the UK </h3>
+<h3 align="center">An Engineer with a background in Internetworking presently residing in the UK </h3>
 
 - 🌱 I’m currently learning **Web development**
 
