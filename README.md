@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chidiebere ejimonu</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Network Automation and Web development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **ejimonuchidiebere@gmail.com**
 
