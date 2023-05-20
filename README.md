@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm chidiebere</h1>
+<h1 align="center">Hi 👋, </br> I'm chidiebere</h1>
 <h3 align="center">An Engineer with a background in Internetworking looking to explore the world of web development </h3>
 
 - 🌱 I’m currently learning **Web development**
