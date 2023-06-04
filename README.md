@@ -41,7 +41,7 @@
 <!-- <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> -->
  </p>
 
-  <h3 align="left">Design tools:</h3>
+  <h3 align="left">Design Software:</h3>
   <p align="left"> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
