@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm chidi</h1>
-<h3 align="center">An Engineer with a background in Internetworking looking to explore the world of web development </h3>
+<h3 align="center">An Engineer with an MSc in Computer Networking. </h3>
 
-- 🌱 I’m currently learning **Web development**
+-  Exploring the use of code in the automation and programmability of Computer Networks
+- 🌱 I have a growing interest in, **Design Systems**, **Web development** and **Creative Coding** 
 
-- 📫 How to reach me **ejimonuchidiebere@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
