@@ -1,6 +1,7 @@
   <h1 align="center">Hi 👋, I'm chidi</h1>
-<h3 align="center">An Engineer with an MSc in Computer Networking. </h3>
+<hr>
 
+- An Engineer with an MSc in Computer Networking. 
 -  Exploring the use of code in the automation and programmability of Computer Networks
 - 🌱 I have a growing interest in, **Design Systems**, **Web development** and **Creative Coding** 
 
