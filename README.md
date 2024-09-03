@@ -8,4 +8,4 @@ Regardless, I do take the time to dabble into other technologies and topics that
 
 During my free time I enjoy making sports illustrations. I hope that some day I can work on a project in this field as the passion that comes with it is something I find comfort in. (YNWA).
 
-I document progress made on projects on my [website](https://chidimyke.github.io) and share some insights on [Linkedin](https://www.linkedin.com/in/chidiebere-ejimonu/). However you are free to connect with me via any of the platforms listed [here](https://linktr.ee/chidiejimonu)
+I document progress made on projects on my [website](https://ejimonu.github.io) and share some insights on [Linkedin](https://www.linkedin.com/in/chidiebere-ejimonu/). However you are free to connect with me via any of the platforms listed [here](https://linktr.ee/chidiejimonu)
